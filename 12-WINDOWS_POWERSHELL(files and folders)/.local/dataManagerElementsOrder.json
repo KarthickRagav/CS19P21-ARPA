@@ -1,0 +1,78 @@
+{
+  "Workflows": [
+    {
+      "Path": null,
+      "SortBy": 0,
+      "VariablesSectionElementsOrder": [],
+      "ArgumentsSectionElementsOrder": null,
+      "ConstantsSectionElementsOrder": [],
+      "AddedNamespaces": null
+    },
+    {
+      "Path": "Main.xaml",
+      "SortBy": 0,
+      "VariablesSectionElementsOrder": [
+        "cmdMove&Sequence_1",
+        "cmdfolder&Sequence_1",
+        "command&Sequence_1"
+      ],
+      "ArgumentsSectionElementsOrder": [],
+      "ConstantsSectionElementsOrder": [],
+      "AddedNamespaces": null
+    },
+    {
+      "Path": "processCount.xaml",
+      "SortBy": 0,
+      "VariablesSectionElementsOrder": [
+        "count&Sequence_1",
+        "processCount&Sequence_1"
+      ],
+      "ArgumentsSectionElementsOrder": [],
+      "ConstantsSectionElementsOrder": [],
+      "AddedNamespaces": null
+    },
+    {
+      "Path": "script.xaml",
+      "SortBy": 0,
+      "VariablesSectionElementsOrder": [
+        "res&Sequence_1",
+        "out&Sequence_1"
+      ],
+      "ArgumentsSectionElementsOrder": [],
+      "ConstantsSectionElementsOrder": [],
+      "AddedNamespaces": null
+    },
+    {
+      "Path": "VBDotNet.xaml",
+      "SortBy": 0,
+      "VariablesSectionElementsOrder": [
+        "res&Sequence_1",
+        "second&Sequence_1",
+        "first&Sequence_1"
+      ],
+      "ArgumentsSectionElementsOrder": [],
+      "ConstantsSectionElementsOrder": [],
+      "AddedNamespaces": null
+    },
+    {
+      "Path": "csharp.xaml",
+      "SortBy": 0,
+      "VariablesSectionElementsOrder": [
+        "first&Sequence_2",
+        "second&Sequence_2",
+        "res&Sequence_2"
+      ],
+      "ArgumentsSectionElementsOrder": [],
+      "ConstantsSectionElementsOrder": [],
+      "AddedNamespaces": null
+    },
+    {
+      "Path": "VBAmacrods.xaml",
+      "SortBy": 0,
+      "VariablesSectionElementsOrder": [],
+      "ArgumentsSectionElementsOrder": [],
+      "ConstantsSectionElementsOrder": [],
+      "AddedNamespaces": null
+    }
+  ]
+}
